@@ -1,0 +1,3 @@
+%{
+  "exrun": {:hex, :exrun, "0.1.6", "036fd2418ad9701ab90446c3245c383fa6723e12badccafb172bba8bf835ab9b", [:mix], [], "hexpm"},
+}
