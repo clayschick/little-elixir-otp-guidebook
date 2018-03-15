@@ -49,6 +49,8 @@ defmodule ChapterTwo do
   Used these to figure out the structure of a packet header:
   - https://www.tutorialspoint.com/ipv4/ipv4_packet_structure.htm
   - http://www.erg.abdn.ac.uk/users/gorry/course/inet-pages/ip-packet.html
+
+  TODO: Figure out how to test this!
   """
   def inspect_packet do
     packet_binary = File.read!('./packet.bin')
